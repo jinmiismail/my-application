@@ -1,0 +1,102 @@
+https://infinitiveportal.sharepoint.com/competencygroupportal/technology/SitePages/Home.aspx?RootFolder=%2Fcompetencygroupportal%2Ftechnology%2FDocuments%2FDatabricks&FolderCTID=0x01200038F809BD10F9114FBE06583090DB2B44&View=%7BE9C033FE%2D6A70%2D4864%2DB6C2%2D11869E837F6F%7D
+
+
+
+Hey everyone,
+
+This is sort of long but please read through because I’m trying to convey all info needed to get you started on Databricks training & explain how it is relevant to your growth & Infinitive.
+
+Wanted to get this group kicked off on Databricks training & certification by sending a formal kick-off email!!  I know a few of you have already started the training, so if you’re all set, please just disregard.  For those of you who are just getting started, please review the attached document for steps on how to create a login and get started.  
+
+DETAILS
+•	The attached file walks you through creating a login to the Partner Portal and using a coupon for $500 to make the training free
+o	The previous group used the infinitive mailing address and didn’t provide any phone numbers
+•	Once you get logged in, you should see the Databricks Partners: Databricks Developer Essentials Badge Learning Pathway
+o	The first item listed in this pathway is “The Developer Foundations Badge”.  This is the pre-requisite for anything else
+•	Before diving in, scroll down to the bottom of the page and take the Partner Readiness Assessment
+o	Most people in the previous Databricks training group had to answer ‘no’ to almost all the questions
+•	After the Readiness Assessment, move onto the second one listed “Introduction to Apache Spark Architecture” 
+
+GOALS
+•	The goal is to complete the Capstone & get your “badge” 
+o	Expand your analytics skills!  Also, as we start to identify & sell projects requiring Databricks expertise, we will lean on you for support!
+•	This effort is helping us achieve partner status with Databricks!
+o	5 badges = Infinitive qualifies to be an Alliance Partner 
+o	10 badges (2 architect + 2 sales) = Professional Partnership
+o	50 (10 architect + 5 sales) = Premier
+
+SUPPORT RESOURCES
+The following Infinitivians were part of the first Databricks cohort and can assist with any questions/provide support where needed.
+•	@Theresa Abela
+•	@Alexander Bonner
+•	@Andrew Barry
+•	@Brad Sheridan
+
+TRAINING OUTLINE & CAPSTONE EXERCISES
+Databricks Developer Essentials Badge Learning Pathway
+•	Introduction to Apache Spark Architecture 
+o	Introduction to Apache Spark Architecture 
+	Introduction to the Course 
+	Filtering 
+	Counting 
+	Shuffling 
+	Summary and Next Steps 
+•	Apache Spark Programming with Databricks 
+o	Course Welcome 
+o	DataFrames 
+	Spark SQL 
+	Reader & Writer 
+	DataFrame & Column 
+o	Transformations 
+	Aggregation 
+	Datetimes 
+	Complex Types 
+	Additional Functions 
+	User-Defined Functions 
+o	Spark Optimization 
+	Spark Architecture 
+	Query Optimization 
+	Partitioning 
+o	Review 
+	Review 
+o	Structed Streaming 
+	Streaming Query 
+	Aggregating Streams 
+	Delta Lake 
+o	Course Conclusion 
+	Summary and Next Steps 
+Capstone Outline
+•	Exercise #1 - Project Overview & Dataset Install
+•	Exercise #2 - Batch Ingestion
+o	Exercise #2.A - Ingest Fixed-Width File
+o	Exercise #2.B - Ingest Tab-Separated File
+o	Exercise #2.C - Ingest Comma-Separated File
+•	Exercise #3 - Create Fact & Dim Tables
+o	Exercise 3.A - Create & Use Database
+o	Exercise 3.B - Load & Cache Batch Orders
+o	Exercise 3.C - Extract Sales Reps
+o	Exercise 3.D - Extract Orders
+o	Exercise 3.E - Extract Line Items
+•	Exercise #4 - XML Ingestion, Products Table
+o	Exercise 4.A - Use Database
+o	Exercise 4.B - Install Library
+o	Exercise 4.C - Load Products
+o	Exercise 4.D - Load ProductLineItems
+•	Exercise #5 - Streaming Orders
+o	Exercise 5.A - Use Database
+o	Exercise 5.B - Stream-Append Orders
+o	Exercise 5.C - Stream-Append Line Items
+•	Exercise #6 - Business Questions
+o	Exercise 6.A - Use Database
+o	Exercise 6.B - Question #1
+o	Exercise 6.C - Question #2
+o	Exercise 6.D - Question #3
+•	Exercise #7 - Submission
+
+Please get started on this as soon as possible and if you have a conflict, reach out to me directly.  I will be scheduling some time to pull this group together to discuss progress and address any questions.  Thanks!!
+
+Julie Brownell
+___________________________
+860-918-8460
+LinkedIn | Infinitive.com
+
